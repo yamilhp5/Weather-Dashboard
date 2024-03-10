@@ -28,10 +28,11 @@
 
 .search-button {
     padding: 10px 15px;
+    background-color: lightskyblue;
 }
 
 .search-history-container {
-    padding: 10px;
+    padding: 8px;
 }
 
 .past-search {
@@ -60,7 +61,7 @@
 
 .current-title-container {
     display: flex;
-	background-color: peachpuff;
+	background-color:lightblue;
 }
 
 .current-title {
